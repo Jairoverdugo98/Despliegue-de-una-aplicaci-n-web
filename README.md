@@ -15,5 +15,4 @@ Una vez introducido nuestro github , volvemos a introducir el comando '$ git pus
 Una vez terminado todos los pasos , en el apartado de configuración de Github "Settings" nos aparecera un menú a la izquierda en el que pone "Pages" entramos y en el apartado de "Branch" seleccionamos "main" y guardaremos esta configuración.
 Luego de unos minutos nos debería de aparecer en la parte de arriba el enlace creado a nuestra página web ya desplegada
 
-
-# [Mi pagina web](https://jairoverdugo98.github.io/Despliegue-de-una-aplicaci-n-web/)
+[Mi pagina web](https://jairoverdugo98.github.io/Despliegue-de-una-aplicaci-n-web/)
